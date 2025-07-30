@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: weather-app
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn weather_project.wsgi
+    envVars:
+      - key: DJANGO_SECRET_KEY
+        value: django-insecure-vkk6&7cj6&0-d2sno^2*o60(lw-j9pfkesgn07&&vmh4+ol-&g
+      - key: DEBUG
+        value: "False"
