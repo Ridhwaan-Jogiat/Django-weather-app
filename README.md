@@ -2,7 +2,7 @@
 
 A sleek weather app built with Django that displays **real-time weather** for any city you search. It features a **dynamic background image** of the city, current **temperature**, **weather icon**, and a short **weather description**.
 
----
+
 
 ## 🚀 Features
 - 🔍 Search weather by city name
@@ -11,7 +11,6 @@ A sleek weather app built with Django that displays **real-time weather** for an
 - 🌤️ Weather icons and descriptions
 - 📅 Displays current day
 
----
 
 ## 🛠️ Tech Stack
 - **Backend**: Django (Python)
@@ -20,7 +19,6 @@ A sleek weather app built with Django that displays **real-time weather** for an
   - [OpenWeatherMap API](https://openweathermap.org/api)
   - [Google Custom Search API](https://programmablesearchengine.google.com/)
 
----
 ## Screenshots
 
 ![Screenshot](https://i.imgur.com/rCGFQAI.png)
