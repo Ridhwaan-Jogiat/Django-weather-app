@@ -157,11 +157,11 @@ input, .btn ::placeholder{
 
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200'); */
 
-body  {
+body {
   background-image: url('https://images.pexels.com/photos/3008509/pexels-photo-3008509.jpeg?auto=compress&cs=tinysrgb&w=1600');
-  background-size:cover;
+  background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
-  width: 1920px;
-       
+  width: 100%;        /* Make it take full width of viewport */
+  min-width: 320px;   /* Optional: set a sensible minimum width */
 }
