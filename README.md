@@ -23,6 +23,6 @@ A sleek weather app built with Django that displays **real-time weather** for an
 ---
 ## Screenshots
 
-![Screenshot](blob:https://imgur.com/d15f6354-fdf8-43f8-8031-f9bbc7e68060)
+![Screenshot](https://i.imgur.com/rCGFQAI.png)
 ---
 
